@@ -26,7 +26,7 @@ The checkpoint files for pre-trained eco-set and imagenet models are hosted
 
 **Notes on pre-trained models:**
 - Pre-trained models expect 128 x 128 images as input.
-- ImageNet models have `n_classes=1000` and ecoset models have `n_classes=565`
+- ImageNet models have `classes=1000` and ecoset models have `classes=565`
 - BL models were trained with `cumulative_readout=False` but can be tested using either option
 - Model predictions correspond to the order of the categories within the files in
 [`pretrained_output_categories`](https://github.com/cjspoerer/rcnn-sat/pretrained_output_categories).
