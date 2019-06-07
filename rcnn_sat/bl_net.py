@@ -76,7 +76,7 @@ def bl_net(input_tensor, classes, n_timesteps=8, cumulative_readout=False):
                 correspond to a instant readout
 
         Returns:
-            model, activations_dict (optional)
+            model
         '''
 
         data_format = tf.keras.backend.image_data_format()
