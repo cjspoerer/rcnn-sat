@@ -1,7 +1,7 @@
 # rcnn-sat
 
 Code for feedforward and recurrent neural network models used in
-[this preprint](https://www.biorxiv.org/content/10.1101/677237v2).
+[this preprint](https://doi.org/10.1101/677237).
 
 The code has been tested with TensorFlow 1.13 and Python 3.6.
 
