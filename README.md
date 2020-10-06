@@ -1,7 +1,7 @@
 # rcnn-sat
 
 Code for feedforward and recurrent neural network models used in
-[this preprint](https://doi.org/10.1101/677237).
+the paper [Recurrent neural networks can explain flexible trading of speed and accuracy in biological vision](https://doi.org/10.1371/journal.pcbi.1008215).
 
 The code has been tested with TensorFlow 1.13 and Python 3.6.
 
